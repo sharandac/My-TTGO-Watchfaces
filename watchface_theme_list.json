@@ -1,8 +1,8 @@
 {
-	"swiss clock":"https://github.com/sharandac/My-TTGO-Watch/raw/master/images/watchface/swiss/",
-	"undone clock":"https://github.com/sharandac/My-TTGO-Watch/raw/master/images/watchface/undone/",
-	"star trek":"https://github.com/sharandac/My-TTGO-Watch/raw/master/images/watchface/startrek/",
-    "hall9000 clock":"https://github.com/sharandac/My-TTGO-Watch/raw/master/images/watchface/hal9000/",
-    "rainbow clock":"https://github.com/sharandac/My-TTGO-Watch/raw/master/images/watchface/rainbow/",
-	"simple black clock":"https://github.com/sharandac/My-TTGO-Watch/raw/master/images/watchface/bloack/"
+	"swiss clock":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/swiss/",
+	"undone clock":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/undone/",
+	"star trek":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/startrek/",
+    "hall9000 clock":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/hal9000/",
+    "rainbow clock":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/rainbow/",
+	"simple black clock":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/black/"
 }
