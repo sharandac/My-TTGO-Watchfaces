@@ -31,12 +31,12 @@
 	},
 	{
 		"name": "my-ttgo-watch-face-gameboy",
-		"url": "https://github.com/guyou/my-ttgo-watch-face-gameboy",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-gameboy/main",
 		"download": "https://github.com/guyou/my-ttgo-watch-face-gameboy/releases/latest/download/watchface.tar.gz"
 	},
 	{
 		"name": "my-ttgo-watch-face-comlink",
-		"url": "https://github.com/guyou/my-ttgo-watch-face-comlink",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-comlink/main",
 		"download": "https://github.com/guyou/my-ttgo-watch-face-comlink/releases/latest/download/watchface.tar.gz"
 	}
 ]
