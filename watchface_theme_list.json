@@ -36,7 +36,7 @@
 	},
 	{
 		"name": "my-ttgo-watch-face-comlink",
-		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-comlink/main",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-comlink/master",
 		"download": "https://github.com/guyou/my-ttgo-watch-face-comlink/releases/latest/download/watchface.tar.gz"
 	}
 ]
