@@ -1,6 +1,6 @@
 # My-TTGO-Watchfaces
 
-Here you can find some finish watchface packages:
+Here you can find some finish watchface packages for [My-TTGO-Watch](https://github.com/sharandac/My-TTGO-Watch):
 
 ![swiss clock](swiss/watchface_theme_prev.png)
 ![undone clock](undone/watchface_theme_prev.png)
