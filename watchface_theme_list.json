@@ -1,5 +1,45 @@
 [
 	{
+		"name": "hall9000 clock",
+		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/hal9000",
+		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/hal9000/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-comlink",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-comlink/main",
+		"download": "https://github.com/guyou/my-ttgo-watch-face-comlink/releases/latest/download/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-gameboy",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-gameboy/main",
+		"download": "https://github.com/guyou/my-ttgo-watch-face-gameboy/releases/latest/download/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-kitt",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-kitt/main",
+		"download": "https://github.com/guyou/my-ttgo-watch-face-kitt/releases/latest/download/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-pokemon",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-pokemon/main",
+		"download": "https://github.com/guyou/my-ttgo-watch-pokemon/releases/latest/download/watchface.tar.gz"
+	},
+	{
+		"name": "only indexes with backgound",
+		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/black",
+		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/black/watchface.tar.gz"
+	},
+	{
+		"name": "rainbow clock",
+		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/rainbow",
+		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/rainbow/watchface.tar.gz"
+	},
+	{
+		"name": "star trek",
+		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/startrek",
+		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/startrek/watchface.tar.gz"
+	},
+	{
 		"name": "swiss clock",
 		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/swiss",
 		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/swiss/watchface.tar.gz"
@@ -8,40 +48,5 @@
 		"name": "undone clock",
 		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/undone",
 		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/undone/watchface.tar.gz"
-	},
-	{
-		"name": "star trek",
-		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/startrek",
-		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/startrek/watchface.tar.gz"
-	},
-	{
-		"name": "hall9000 clock",
-		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/hal9000",
-		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/hal9000/watchface.tar.gz"
-	},
-	{
-		"name": "rainbow clock",
-		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/rainbow",
-		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/rainbow/watchface.tar.gz"
-	},
-	{
-		"name": "only indexes with backgound",
-		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/black",
-		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/black/watchface.tar.gz"
-	},
-	{
-		"name": "my-ttgo-watch-pokemon",
-		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-pokemon/main",
-		"download": "https://github.com/guyou/my-ttgo-watch-pokemon/releases/latest/download/watchface.tar.gz"
-	},
-	{
-		"name": "my-ttgo-watch-face-gameboy",
-		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-gameboy/main",
-		"download": "https://github.com/guyou/my-ttgo-watch-face-gameboy/releases/latest/download/watchface.tar.gz"
-	},
-	{
-		"name": "my-ttgo-watch-face-comlink",
-		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-comlink/main",
-		"download": "https://github.com/guyou/my-ttgo-watch-face-comlink/releases/latest/download/watchface.tar.gz"
 	}
 ]
