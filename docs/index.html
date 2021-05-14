@@ -1,0 +1,61 @@
+<html>
+<head>
+</head>
+<body>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>l
+<div class="container">
+    <div class="tables" id="showData"></div>
+</div>
+<script>
+function dynamic_table(url) {
+    $.ajax({
+        url: url,
+        data: {
+            format: 'json'
+        },
+        error: function () {
+            $('#info').html('<p>An error has occurred</p>');
+        },
+        dataType: 'json',
+        success: function (data) {           
+            var col = [];
+            window.cols = col;
+            col.push("Name");
+            col.push("Preview");
+            col.push("Download");
+            var table = document.createElement("table");
+            table.setAttribute('class', 'table blueTable');      
+            var tr = table.insertRow(-1);                   
+            for (var i = 0; i < col.length; i++) {
+                var th = document.createElement("th");     
+                th.innerHTML = col[i];
+                tr.appendChild(th);
+            }        
+            for (var i = 0; i < data.length; i++) {
+                tr = table.insertRow(-1);
+                var tabCell = tr.insertCell(-1);
+                tabCell.innerHTML = data[i].name;
+                tabCell = tr.insertCell(-1);
+                tabCell.innerHTML = '<img src="' + data[i].url + '/watchface_theme_prev.png"/>';
+                tabCell = tr.insertCell(-1);
+                tabCell.innerHTML = '<a href="' + data[i].download + '">Download</a>';
+            }
+            var divContainer = document.getElementById("showData");
+            divContainer.innerHTML = "";
+            divContainer.appendChild(table);
+        },
+        type: 'GET'
+    });
+};
+</script>
+<script>
+    $(document).ready(function () {
+        dynamic_table("https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/watchface_theme_list.json");
+    });
+</script>
+<noscript>Sorry, your browser does not support JavaScript!</noscript> 
+</table>
+</body>
+</html>
