@@ -1,0 +1,87 @@
+{
+    "dial": {
+      "enable": true,
+      "x_offset": 0,
+      "y_offset": 0
+    },
+    "label": [
+      {
+        "enable": true,
+        "type": "date",
+        "label": "88:88",
+        "font": "LCD",
+        "font_color": "#d7d8c2",
+        "font_size": 48,
+        "align": "center",
+        "x_offset": 38,
+        "y_offset": 118,
+        "x_size": 134,
+        "y_size": 40
+      },
+      {
+        "enable": true,
+        "type": "date",
+        "label": "%H:%M",
+        "font": "LCD",
+        "font_color": "#304e65",
+        "font_size": 48,
+        "align": "center",
+        "x_offset": 38,
+        "y_offset": 118,
+        "x_size": 134,
+        "y_size": 40
+      },
+      {
+        "enable": true,
+        "type": "date",
+        "label": "88",
+        "font": "LCD",
+        "font_color": "#d7d8c2",
+        "font_size": 32,
+        "align": "center",
+        "x_offset": 178,
+        "y_offset": 131,
+        "x_size": 32,
+        "y_size": 32
+      },
+      {
+        "enable": true,
+        "type": "date",
+        "label": "%S",
+        "font": "LCD",
+        "font_color": "#304e65",
+        "font_size": 32,
+        "align": "center",
+        "x_offset": 178,
+        "y_offset": 131,
+        "x_size": 32,
+        "y_size": 32
+      },
+      {
+        "enable": true,
+        "type": "date",
+        "label": "8888-888-88",
+        "font": "LCD",
+        "font_color": "#d7d8c2",
+        "align": "center",
+        "font_size": 32,
+        "x_offset": 47,
+        "y_offset": 79,
+        "x_size": 155,
+        "y_size": 40
+      },
+      {
+        "enable": true,
+        "type": "date",
+        "label": "%C%y-%b-%d",
+        "font": "LCD",
+        "font_color": "#304e65",
+        "align": "center",
+        "font_size": 32,
+        "x_offset": 47,
+        "y_offset": 79,
+        "x_size": 155,
+        "y_size": 40
+      }
+    ]
+  }
