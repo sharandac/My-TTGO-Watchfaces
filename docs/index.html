@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>My-TTGO-Watchfaces</title>
+<meta charset="UTF-8">
+<meta name="description" content="Watchfaces for My-TTGO-Watch firmware for Lilygo T-Watch 2020">
+<meta name="keywords" content="My-TTGO-Watch, watchfaces, Lilygo">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<script>
+function dynamic_gallery(url) {
+    $.ajax({
+        url: url,
+        data: {
+            format: 'json'
+        },
+        error: function () {
+            $('#info').html('<p>An error has occurred</p>');
+        },
+        dataType: 'json',
+        success: function (data) {           
+            var divContainer = document.getElementById("showData");
+            divContainer.innerHTML = "";
+            for (var i = 0; i < data.length; i++) {
+                var gallery = document.createElement("div");     
+                gallery.setAttribute('class', "gallery");
+                gallery.innerHTML = '<a href="' + data[i].download + '"><img src="' + data[i].url + '/watchface_theme_prev.png"/></a><div class="desc">' + data[i].name + '</div></div>';
+                divContainer.appendChild(gallery);
+            }         
+        },
+        type: 'GET'
+    });
+};
+</script>
+</head>
+<body>
+<div class="container">
+<h1>My-TTGO-Watchfaces</h1>
+<p>A collection of watchface packages for <a href="https://github.com/sharandac/My-TTGO-Watch">My-TTGO-Watch</a>.</p>
+</div>
+<div class="container" id="showData">
+</div>
+<script>
+    $(document).ready(function () {
+        dynamic_gallery("https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/watchface_theme_list.json");
+    });
+</script>
+<noscript>Sorry, your browser does not support JavaScript!</noscript> 
+</table>
+</body>
+</html>
