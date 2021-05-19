@@ -10,6 +10,11 @@
 		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/hal9000/watchface.tar.gz"
 	},
 	{
+		"name": "my-ttgo-watch-face-bttf",
+		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-bttf/main",
+		"download": "https://github.com/guyou/my-ttgo-watch-face-bttf/releases/latest/download/watchface.tar.gz"
+	},
+	{
 		"name": "my-ttgo-watch-face-comlink",
 		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-comlink/main",
 		"download": "https://github.com/guyou/my-ttgo-watch-face-comlink/releases/latest/download/watchface.tar.gz"
