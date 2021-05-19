@@ -1,0 +1,35 @@
+{
+    "dial": {
+      "enable": true,
+      "x_offset": 0,
+      "y_offset": 0
+    },
+    "label": [
+      {
+        "enable": true,
+        "type": "date",
+        "label": "88:88",
+        "font": "LCD",
+        "font_color": "#800000",
+        "font_size": 72,
+        "align": "center",
+        "x_offset": 0,
+        "y_offset": 0,
+        "x_size": 240,
+        "y_size": 240
+      },
+      {
+        "enable": true,
+        "type": "date",
+        "label": "%H:%M",
+        "font": "LCD",
+        "font_color": "#ff0000",
+        "font_size": 72,
+        "align": "center",
+        "x_offset": 0,
+        "y_offset": 0,
+        "x_size": 240,
+        "y_size": 240
+      }
+    ]
+  }
