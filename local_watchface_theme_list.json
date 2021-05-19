@@ -11,8 +11,8 @@
     },
 	{
 		"name":"led clock",
-		"url":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/casio",
-		"download":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/casio/watchface.tar.gz"
+		"url":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/led",
+		"download":"https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/led/watchface.tar.gz"
     },
 	{
 		"name":"undone clock",
