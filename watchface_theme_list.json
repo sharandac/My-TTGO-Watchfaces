@@ -10,6 +10,11 @@
 		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/hal9000/watchface.tar.gz"
 	},
 	{
+		"name": "klingon",
+		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/klingon",
+		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/klingon/watchface.tar.gz"
+	},
+	{
 		"name": "led clock",
 		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/led",
 		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/led/watchface.tar.gz"
@@ -38,6 +43,11 @@
 		"name": "my-ttgo-watch-face-pipboy",
 		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-pipboy/main",
 		"download": "https://github.com/reality52/my-ttgo-watch-face-pipboy/releases/latest/download/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-tranquilitylane",
+		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-tranquilitylane/main",
+		"download": "https://github.com/reality52/my-ttgo-watch-face-tranquilitylane/releases/latest/download/watchface.tar.gz"
 	},
 	{
 		"name": "my-ttgo-watch-pokemon",
