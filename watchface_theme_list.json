@@ -35,6 +35,11 @@
 		"download": "https://github.com/guyou/my-ttgo-watch-face-gameboy/releases/latest/download/watchface.tar.gz"
 	},
 	{
+		"name": "my-ttgo-watch-face-goldeneye",
+		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-goldeneye/main",
+		"download": "https://github.com/reality52/my-ttgo-watch-face-goldeneye/releases/latest/download/watchface.tar.gz"
+	},
+	{
 		"name": "my-ttgo-watch-face-kitt",
 		"url": "https://raw.githubusercontent.com/guyou/my-ttgo-watch-face-kitt/main",
 		"download": "https://github.com/guyou/my-ttgo-watch-face-kitt/releases/latest/download/watchface.tar.gz"
@@ -43,6 +48,11 @@
 		"name": "my-ttgo-watch-face-pipboy",
 		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-pipboy/main",
 		"download": "https://github.com/reality52/my-ttgo-watch-face-pipboy/releases/latest/download/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-thisisfine",
+		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-thisisfine/main",
+		"download": "https://github.com/reality52/my-ttgo-watch-face-thisisfine/releases/latest/download/watchface.tar.gz"
 	},
 	{
 		"name": "my-ttgo-watch-face-tranquilitylane",
