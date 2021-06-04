@@ -1,4 +1,5 @@
 {
+  "api_level": 2,
   "hour": {
     "enable": true,
     "x_offset": 0,

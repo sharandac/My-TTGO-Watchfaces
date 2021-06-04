@@ -1,0 +1,96 @@
+{
+  "api_level": 3,
+  "dial": {
+    "enable": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "label": [
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H %M",
+      "font": "klingon_48px.font",
+      "font_color": "#ff0000",
+      "font_size": 48,
+      "align": "center",
+      "hide_interval": -1,
+      "x_offset": 0,
+      "y_offset": 33,
+      "x_size": 240,
+      "y_size": 48
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H:%M",
+      "font": "klingon_48px.font",
+      "font_color": "#ff0000",
+      "font_size": 48,
+      "align": "center",
+      "hide_interval": 1,
+      "x_offset": 0,
+      "y_offset": 33,
+      "x_size": 240,
+      "y_size": 48
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%S",
+      "font": "klingon_24px.font",
+      "font_color": "#ff0000",
+      "font_size": 48,
+      "align": "center",
+      "hide_interval": 0,
+      "x_offset": 12,
+      "y_offset": 80,
+      "x_size": 40,
+      "y_size": 20
+    },
+    {
+      "enable": true,
+      "type": "battery_voltage",
+      "label": "%.2f ly",
+      "font": "klingon_24px.font",
+      "font_color": "#ff0000",
+      "font_size": 48,
+      "align": "left",
+      "hide_interval": 0,
+      "x_offset": 132,
+      "y_offset": 196,
+      "x_size": 100,
+      "y_size": 20
+    }
+  ],
+  "image": [
+    {
+      "enable": true,
+      "type": "time_sec",
+      "file": "klingon_yellow.png",
+      "hide_interval": 0,
+      "rotation_range": 359,
+      "rotation_start": 0,
+      "rotation_x_origin": 8,
+      "rotation_y_origin": 26,
+      "x_offset": 135,
+      "y_offset": 115,
+      "x_size": 52,
+      "y_size": 52
+    },
+    {
+      "enable": true,
+      "type": "time_sec",
+      "file": "klingon_red.png",
+      "hide_interval": 0,
+      "rotation_range": 359,
+      "rotation_start": 0,
+      "rotation_x_origin": 8,
+      "rotation_y_origin": 26,
+      "x_offset": 165,
+      "y_offset": 105,
+      "x_size": 52,
+      "y_size": 52
+    }
+  ]
+}
