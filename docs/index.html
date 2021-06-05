@@ -31,6 +31,20 @@ div.desc {
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
 <script>
+function display_gallery(data) {
+    var divContainer = document.getElementById("showData");
+    divContainer.innerHTML = "";
+    for (var i = 0; i < data.length; i++) {
+        var gallery = document.createElement("div");     
+        gallery.setAttribute('class', "gallery");
+        gallery.innerHTML = '<a href="' + data[i].download + '"><img src="' + data[i].url + '/watchface_theme_prev.png"/></a><div class="desc">' + data[i].name + '<br/>';
+        gallery.innerHTML += '(<a href="' + data[i].download + '">Download</a>';
+        if (data[i].hasOwnProperty("home_url"))
+          gallery.innerHTML += ', <a href="' + data[i].home_url + '">Home</a>';
+        gallery.innerHTML +=  ')</div></div>';
+        divContainer.appendChild(gallery);
+    }
+}
 function dynamic_gallery(url) {
     $.ajax({
         url: url,
@@ -42,14 +56,7 @@ function dynamic_gallery(url) {
         },
         dataType: 'json',
         success: function (data) {           
-            var divContainer = document.getElementById("showData");
-            divContainer.innerHTML = "";
-            for (var i = 0; i < data.length; i++) {
-                var gallery = document.createElement("div");     
-                gallery.setAttribute('class', "gallery");
-                gallery.innerHTML = '<a href="' + data[i].download + '"><img src="' + data[i].url + '/watchface_theme_prev.png"/></a><div class="desc">' + data[i].name + '</div></div>';
-                divContainer.appendChild(gallery);
-            }         
+          display_gallery(data);
         },
         type: 'GET'
     });
