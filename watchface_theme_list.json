@@ -54,6 +54,30 @@
 		"download": "https://github.com/guyou/my-ttgo-watch-face-kitt/releases/latest/download/watchface.tar.gz"
 	},
 	{
+		"name": "my-ttgo-watch-face-numeral-duo",
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-white",
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-white/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-numeral-duo",
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-yellow",
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-yellow/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-numeral-duo",
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-grey",
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-grey/watchface.tar.gz"
+	},
+	{
+		"name": "my-ttgo-watch-face-numeral-duo",
+		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-green-blue",
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-green-blue/watchface.tar.gz"
+	},
+	{
 		"name": "my-ttgo-watch-face-pipboy",
 		"home_url": "https://github.com/reality52/my-ttgo-watch-face-pipboy",
 		"url": "https://raw.githubusercontent.com/reality52/my-ttgo-watch-face-pipboy/main",
