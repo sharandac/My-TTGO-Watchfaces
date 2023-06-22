@@ -10,7 +10,7 @@ This is a fork of original Sharandac TTGO TWatch Clock Faces
 [![hal9000](hal9000/watchface_theme_prev.png)](hal9000/watchface.tar.gz)
 [![black](black/watchface_theme_prev.png)](black/watchface.tar.gz)
 
-Here are some ne faces
+# Here are some ne faces
 
 You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face](https://github.com/topics/my-ttgo-watch-face) or an overview of all [watchfaces](https://sharandac.github.io/My-TTGO-Watchfaces/).
 Feel free to clone them and create yours!
