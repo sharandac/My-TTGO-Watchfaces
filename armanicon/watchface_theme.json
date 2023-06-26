@@ -1,0 +1,77 @@
+{
+  "dial": {
+    "enable": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "hour": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "min": {
+    "enable": false,
+    "smooth": true,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "sec": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "hour_shadow": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "min_shadow": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "sec_shadow": {
+    "enable": false,
+    "x_offset": 0,
+    "y_offset": 0
+  },
+  "label": [
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%H:%M",
+      "font_color": "#D9D8DB",
+      "align": "center",
+      "font_size": 48,
+      "x_offset": 55,
+      "y_offset": 70,
+      "x_size": 130,
+      "y_size": 50
+    },
+    {
+      "enable": true,
+      "type": "date",
+      "label": "%m.%d.",
+      "font_color": "#D9D8DB",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 55,
+      "y_offset": 125,
+      "x_size": 130,
+      "y_size": 35
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "label": "%d%%",
+      "font_color": "#D9D8DB",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 55,
+      "y_offset": 205,
+      "x_size": 50,
+      "y_size": 16
+    }
+  ]
+}
+
