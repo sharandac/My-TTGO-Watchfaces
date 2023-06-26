@@ -19,6 +19,7 @@ You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face
 Feel free to clone them and create yours!
 
 [![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
+[![armani connect](armanicon/watchface_theme_prev.png)](armanicon/watchface.tar.gz)
 [![bell ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
 [![fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
 [![mini cooper](mini-cooper/watchface_theme_prev.png)](mini-cooper/watchface.tar.gz)
