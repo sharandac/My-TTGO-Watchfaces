@@ -26,3 +26,4 @@ Feel free to clone them and create yours!
 [![swiss army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
 [![tag heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
 [![victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
+[![cartier](cartier/watchface_theme_prev.png)](cartier/watchface.tar.gz)
