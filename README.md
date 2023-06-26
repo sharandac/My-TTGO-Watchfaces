@@ -17,3 +17,11 @@ This is a fork of original Sharandac TTGO TWatch Clock Faces
 
 You can find more watch faces by looking on GitHub for [topic my-ttgo-watch-face](https://github.com/topics/my-ttgo-watch-face) or an overview of all [watchfaces](https://sharandac.github.io/My-TTGO-Watchfaces/).
 Feel free to clone them and create yours!
+
+[![armani exchange](armaniex/watchface_theme_prev.png)](armaniex/watchface.tar.gz)
+[![bell ross](bellross/watchface_theme_prev.png)](bellross/watchface.tar.gz)
+[![fossil](fossil/watchface_theme_prev.png)](fossil/watchface.tar.gz)
+[![mini cooper](mini-cooper/watchface_theme_prev.png)](mini-cooper/watchface.tar.gz)
+[![swiss army](swissarmy/watchface_theme_prev.png)](swissarmy/watchface.tar.gz)
+[![tag heuer](tagheuer/watchface_theme_prev.png)](tagheuer/watchface.tar.gz)
+[![victorinox](victorinox/watchface_theme_prev.png)](victorinox/watchface.tar.gz)
