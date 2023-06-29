@@ -40,13 +40,26 @@
       "enable": true,
       "type": "date",
       "label": "%d",
-      "font_color": "#000000",
+      "font_color": "#D9D8DB",
       "align": "center",
       "font_size": 12,
-      "x_offset": 188,
+      "x_offset": 175,
       "y_offset": 113,
       "x_size": 20,
       "y_size": 13
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "label": "%d%%",
+      "font_color": "#D9D8DB",
+      "align": "left",
+      "font_size": 16,
+      "x_offset": 5,
+      "y_offset": 200,
+      "x_size": 30,
+      "y_size": 35
     }
+
   ]
 }
