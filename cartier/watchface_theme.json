@@ -42,11 +42,23 @@
       "label": "%d",
       "font_color": "#000000",
       "align": "center",
-      "font_size": 12,
-      "x_offset": 188,
-      "y_offset": 113,
-      "x_size": 20,
-      "y_size": 13
+      "font_size": 16,
+      "x_offset": 55,
+      "y_offset": 145,
+      "x_size": 130,
+      "y_size": 35
+    },
+    {
+      "enable": true,
+      "type": "battery_percent",
+      "label": "%d%%",
+      "font_color": "#D9D8DB",
+      "align": "center",
+      "font_size": 16,
+      "x_offset": 55,
+      "y_offset": 200,
+      "x_size": 130,
+      "y_size": 35
     }
   ]
 }
