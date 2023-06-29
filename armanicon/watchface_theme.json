@@ -44,7 +44,7 @@
       "align": "center",
       "font_size": 48,
       "x_offset": 55,
-      "y_offset": 70,
+      "y_offset": 90,
       "x_size": 130,
       "y_size": 50
     },
@@ -56,7 +56,7 @@
       "align": "center",
       "font_size": 16,
       "x_offset": 55,
-      "y_offset": 125,
+      "y_offset": 145,
       "x_size": 130,
       "y_size": 35
     },
@@ -68,9 +68,9 @@
       "align": "center",
       "font_size": 16,
       "x_offset": 55,
-      "y_offset": 205,
-      "x_size": 50,
-      "y_size": 16
+      "y_offset": 200,
+      "x_size": 130,
+      "y_size": 35
     }
   ]
 }

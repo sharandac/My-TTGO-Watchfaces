@@ -20,16 +20,31 @@
     "x_offset": 0,
     "y_offset": 0
   },
+  "hour_shadow": {
+    "enable": true,
+    "x_offset": 5,
+    "y_offset": 5
+  },
+  "min_shadow": {
+    "enable": true,
+    "x_offset": 5,
+    "y_offset": 5
+  },
+  "sec_shadow": {
+    "enable": true,
+    "x_offset": 5,
+    "y_offset": 5
+  },
   "label": [
     {
       "enable": true,
       "type": "date",
       "label": "%d",
-      "font_color": "#000000",
+      "font_color": "#f2c799",
       "align": "center",
       "font_size": 12,
-      "x_offset": 188,
-      "y_offset": 113,
+      "x_offset": 150,
+      "y_offset": 180,
       "x_size": 20,
       "y_size": 13
     }
