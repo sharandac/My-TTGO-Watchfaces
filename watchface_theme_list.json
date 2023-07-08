@@ -1,9 +1,95 @@
 [
 	{
+		"name": "Arduino - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Arduino-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Arduino-1/watchface.tar.gz"
+	},
+	{
+		"name": "Bender - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Bender-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Bender-1/watchface.tar.gz"
+	},
+	{
+		"name": "Blackhole - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Blackhole-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Blackhole-1/watchface.tar.gz"
+	},
+	{
+		"name": "Blood - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Blood-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Blood-1/watchface.tar.gz"
+	},
+	{
+		"name": "Brain - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Brain-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Brain-1/watchface.tar.gz"
+	},
+	{
+		"name": "Chip - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Chip-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Chip-1/watchface.tar.gz"
+	},
+	{
+		"name": "Clock - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Clock-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Clock-1/watchface.tar.gz"
+	},
+	{
+		"name": "Earth - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Earth-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Earth-1/watchface.tar.gz"
+	},
+	{
+		"name": "Matrix - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Matrix-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Matrix-1/watchface.tar.gz"
+	},
+	{
+		"name": "Moon - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Moon-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Moon-1/watchface.tar.gz"
+	},
+	{
+		"name": "Oscilloscope - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Oscilloscope-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Oscilloscope-1/watchface.tar.gz"
+	},
+	{
+		"name": "Pacman",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Pacman",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Pacman/watchface.tar.gz"
+	},
+	{
+		"name": "Simpsons - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Simpsons-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Simpsons-1/watchface.tar.gz"
+	},
+	{
+		"name": "TV - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/TV-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/TV-1/watchface.tar.gz"
+	},
+	{
+		"name": "Windows95 - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Windows95-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/Windows95-1/watchface.tar.gz"
+	},
+	{
+		"name": "Yin-Yan - 1",
+		"url": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/YinYan-1",
+		"download": "https://raw.githubusercontent.com/PGNetHun/PG-TTGO-Watchfaces/main/YinYan-1/watchface.tar.gz"
+	},
+	{
 		"name": "casio clock",
 		"url": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/casio",
 		"home_url": "https://github.com/sharandac/My-TTGO-Watchfaces/",
 		"download": "https://raw.githubusercontent.com/sharandac/My-TTGO-Watchfaces/main/casio/watchface.tar.gz"
+	},
+	{
+		"name": "cyberWatch",
+		"home_url": "https://github.com/spaceAngel/cyberWatch",
+		"url": "https://raw.githubusercontent.com/spaceAngel/cyberWatch/main",
+		"download": "https://github.com/spaceAngel/cyberWatch/releases/latest/download/watchface.tar.gz"
 	},
 	{
 		"name": "hall9000 clock",
@@ -56,26 +142,8 @@
 	{
 		"name": "my-ttgo-watch-face-numeral-duo",
 		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
-		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-white",
-		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-white/watchface.tar.gz"
-	},
-	{
-		"name": "my-ttgo-watch-face-numeral-duo",
-		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
-		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-yellow",
-		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-yellow/watchface.tar.gz"
-	},
-	{
-		"name": "my-ttgo-watch-face-numeral-duo",
-		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
-		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-grey",
-		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-grey/watchface.tar.gz"
-	},
-	{
-		"name": "my-ttgo-watch-face-numeral-duo",
-		"home_url": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo",
-		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main/numeral-duo-green-blue",
-		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/blob/main/numeral-duo-green-blue/watchface.tar.gz"
+		"url": "https://raw.githubusercontent.com/tiango-git/my-ttgo-watch-face-numeral-duo/main",
+		"download": "https://github.com/tiango-git/my-ttgo-watch-face-numeral-duo/releases/latest/download/watchface.tar.gz"
 	},
 	{
 		"name": "my-ttgo-watch-face-pipboy",
